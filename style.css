@@ -70,6 +70,14 @@ h1 {
 	color: #ffa600;
 }
 
+p {
+	font-size: 1.25em; /* 20px / 16px */
+	padding-top: 0;
+	padding-bottom: 1em; /* 16px */
+	padding-left: 0.625em; /* 10px / 16px */
+	padding-right: 0.625em; /* 10px / 16px */
+}
+
 input {
 	margin: 0.625em 0;
 }
