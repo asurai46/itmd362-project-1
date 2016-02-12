@@ -87,3 +87,7 @@ input {
 	margin: 0.625em 0;
 }
 
+#text {
+	font-size: 1em;
+	padding-top: 1em;
+}
